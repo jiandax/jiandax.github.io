@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文档 on ZDoc</title>
+    <link>https://iyard.tech/docs/</link>
+    <description>Recent content in 文档 on ZDoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 11 Jan 2020 14:09:21 +0900</lastBuildDate>
+    
+        <atom:link href="https://iyard.tech/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>开发基础</title>
+        <link>https://iyard.tech/docs/dev-lang/</link>
+        <pubDate>Tue, 28 Jan 2020 00:36:39 +0900</pubDate>
+        
+        <guid>https://iyard.tech/docs/dev-lang/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>开发框架</title>
+        <link>https://iyard.tech/docs/dev-framework/</link>
+        <pubDate>Tue, 28 Jan 2020 00:36:39 +0900</pubDate>
+        
+        <guid>https://iyard.tech/docs/dev-framework/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>前端开发</title>
+        <link>https://iyard.tech/docs/dev-web/</link>
+        <pubDate>Tue, 28 Jan 2020 00:36:39 +0900</pubDate>
+        
+        <guid>https://iyard.tech/docs/dev-web/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>数据结构与算法</title>
+        <link>https://iyard.tech/docs/data-structure-algorithm/</link>
+        <pubDate>Tue, 28 Jan 2020 00:36:39 +0900</pubDate>
+        
+        <guid>https://iyard.tech/docs/data-structure-algorithm/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>
